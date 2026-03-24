@@ -12,8 +12,8 @@
 
 ## 🌐 Live Demo
 
-- **Frontend:** [deliverease-final.vercel.app](https://deliverease-final.vercel.app)
-- **Backend API:** [delivereasefinal.onrender.com](https://delivereasefinal.onrender.com)
+- **Frontend:** [https://deliver-easexfinal.vercel.app](https://deliver-easexfinal.vercel.app)
+- **Backend API:** [https://delivereasefinal.onrender.com](https://delivereasefinal.onrender.com)
 
 ### Demo Credentials
 | Role | Email | Password |
